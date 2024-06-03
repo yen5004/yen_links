@@ -10,3 +10,4 @@ https://github.com/yen5004/thm_regex.git
 
 https://github.com/sc0tfree/updog
 
+https://github.com/yen5004/EICAR.git
